@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextWise-React/static/css/main.d22f9e2c.css",
+    "main.js": "/TextWise-React/static/js/main.18301f9f.js",
+    "static/js/592.5a7c6f19.chunk.js": "/TextWise-React/static/js/592.5a7c6f19.chunk.js",
+    "index.html": "/TextWise-React/index.html",
+    "main.d22f9e2c.css.map": "/TextWise-React/static/css/main.d22f9e2c.css.map",
+    "main.18301f9f.js.map": "/TextWise-React/static/js/main.18301f9f.js.map",
+    "592.5a7c6f19.chunk.js.map": "/TextWise-React/static/js/592.5a7c6f19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d22f9e2c.css",
+    "static/js/main.18301f9f.js"
+  ]
+}
